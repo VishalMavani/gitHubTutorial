@@ -1,3 +1,2 @@
-featurebranch2
-feature2 one more commit 
-extra commit
+feature2 completed!
+added comments

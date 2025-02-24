@@ -1,4 +1,4 @@
 Hello World
 Hello World 2
 Hello World 3
-Heelo World 4 - from Git
+Hello World 4 - from Git

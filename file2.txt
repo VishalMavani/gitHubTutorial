@@ -1,2 +1,3 @@
 file2 content
 file2 modified
+file 2 new line added

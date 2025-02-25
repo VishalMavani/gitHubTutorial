@@ -1,3 +1,4 @@
 file3 created
 file3 modified
 file3 third line added
+feature 3 added
